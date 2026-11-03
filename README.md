@@ -1,6 +1,6 @@
 # Proteus: playable build
 
-▶ **[Play Proteus in your browser](https://chrcode11.github.io/Proteus-demo/)**
+▶ **[Play Proteus in your browser](https://juanivaldy.github.io/Proteus-demo/)**
 
 Proteus is a systemic action RPG built by one developer directing four AI coding agents (Claude, Codex, Cursor, ChatGPT), each owning one area of the game. This repository hosts the single-file release build. The source is kept private.
 
